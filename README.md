@@ -9,7 +9,9 @@ Till now the models implemented
 The machine learning algorithms are implemented from scratch and the libraries used are numpy and math
 
 library used:
+
 pandas & mathplotlib : for data handling , manpulation and visualization of datasets
+
 Train Test split (from Sklearn.model_selection) : To split the dataset into training and test sets
-various perfrormance measures
+
 sklearn.metrices : To measure accuracy_score , precision, recall , f1_scroe and confusion matrix
