@@ -6,6 +6,7 @@ Till now the models implemented:
 2. knn classifier (k-nearest neighbour)
 3. Naive Bayesian Classifier
 4. Linear Regression
+5. Logistic Regression
 
 The machine learning algorithms are implemented from scratch without using their pre existing libraries in python
 
@@ -20,3 +21,4 @@ Datasets Used:
 2. knn classifier (k-nearest neighbour) : iris.csv
 3. Naive Bayesian Classifier : iris.csv
 4. Linear Regression : data.txt
+5. Logistic Regression : synthetic or synthesized data using numpy
